@@ -16,3 +16,23 @@ System Requirement
 6. Appointment Management
 7. E-Pharmacy Store
 8. Payment and Billing
+# 
+Tools and Techniques
+• Coding Language:
+– HTML5
+– CSS3
+– Bootstrap5
+– Javascript and Jquery
+– PHP
+• Software Requirement:
+– VS Code IDE (Version 1.79)
+– XAMPP Control Panel 8.0.1
+– Figma
+– Draw.io
+– Lucid Chart
+– Latex
+– Microsoft Excel
+• Hardware Requirement:
+– Processor: Intel(R) Core(TM) i3 2.30 GHz
+– Operating System: Windows 10
+– Ram: 8GB
